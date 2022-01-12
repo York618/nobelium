@@ -39,7 +39,7 @@ const BLOG = {
     // support provider: gitalk, utterances, cusdis
     provider: 'gitalk', // leave it empty if you don't need any comment plugin
     gitalkConfig: {
-      repo: 'York618/Comments', // The repository of store comments
+      repo: 'Comments', // The repository of store comments
       owner: 'York618',
       admin: ['York618'],
       clientID: '50b903faa977fdcc5ddf',
