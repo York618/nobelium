@@ -3,7 +3,7 @@ const BLOG = {
   author: 'York Zhao',
   email: 'zys9102@gmail.com',
   link: 'https://yorkblog.vercel.app',
-  description: '九万里风鹏正举，风休住，蓬舟吹取三山去',
+  description: 'Maybe a geek',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
